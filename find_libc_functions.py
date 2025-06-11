@@ -1,4 +1,4 @@
-# Decompile current function using LLM4decompile
+# Find Libc Functions by Head Bytes
 # @category LLM4Decompile
 # @runtime PyGhidra
 # @keybinding F5
