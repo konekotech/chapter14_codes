@@ -1,6 +1,3 @@
-# chapter14_codes
-
-
 # Creating FidDb
 
 ## 1. Create a new directory for the project
