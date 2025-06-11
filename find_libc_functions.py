@@ -1,8 +1,7 @@
 # Find Libc Functions by Head Bytes
-# @category LLM4Decompile
+# @category Libc Functions
 # @runtime PyGhidra
-# @keybinding F5
-# @author blend-tea
+# @author konekotech
 
 
 # Ghidra Requirements
